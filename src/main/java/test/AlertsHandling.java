@@ -8,7 +8,7 @@ import common.WebDriverFactory;
 public class AlertsHandling {
 	
 	@Test
-	public void alertsHandling()
+	public void allertsHandling()
 	{
 		WebDriver driver = WebDriverFactory.driver.get();
 	
