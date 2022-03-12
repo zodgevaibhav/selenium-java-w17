@@ -21,8 +21,6 @@ public class WindoVerification extends BaseTest {
 		driver.findElement(By.xpath("//img[@alt='OrangeHRM on twitter']")).click();
 		driver.findElement(By.xpath("//img[@alt='OrangeHRM on youtube']")).click();
 
-		String currentWindow = driver.getWindowHandle();
-
 		Set<String> windowHandles = driver.getWindowHandles();
 
 		for (String window : windowHandles) // Enhanced for or For Each
