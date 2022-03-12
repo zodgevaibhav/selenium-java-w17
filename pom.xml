@@ -10,7 +10,6 @@
 	</properties>
 
 	<dependencies>
-
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
@@ -21,7 +20,6 @@
 			<artifactId>testng</artifactId>
 			<version>7.5</version>
 		</dependency>
-
 	</dependencies>
 
 </project>
