@@ -26,11 +26,11 @@ public class LinkVerification extends BaseTest{
 			System.out.println(link.getAttribute("href"));
 		}
 		
-	/*	for(int i=0;i<links.size();i++)
+		for(int i=0;i<links.size();i++)
 		{
 			System.out.println(links.get(i).getAttribute("href"));
 		}
-	*/
+
 
 	}
 
