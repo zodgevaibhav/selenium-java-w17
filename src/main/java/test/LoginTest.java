@@ -14,7 +14,6 @@ public class LoginTest extends BaseTest {
 			.verifyWelcomeText();
 	}
 	
-	/*
 	@Test
 	public void verifyESSLoginSuccessful() {
 		LoginPage lp = new LoginPage();
@@ -47,5 +46,5 @@ public class LoginTest extends BaseTest {
 			.verifyErrorMessage("Username cannot be empty");
 	
 	}
-*/
+
 }
